@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     background-color: rgb(255, 255, 255);
 
@@ -35,3 +36,42 @@
   
 }
     
+=======
+* {
+    background-color: rgb(255, 255, 255);
+
+}
+
+
+
+.card-group {
+
+    padding: 29px;
+    margin: 25px;
+ 
+    
+    
+  
+}
+
+
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+     
+ 
+    
+}
+ 
+
+.col {
+
+    padding: 29px;
+    margin: 25px;
+  
+}
+    
+>>>>>>> 7c0b3654d76af55696255f8ce7033f4fcb60d0a4
